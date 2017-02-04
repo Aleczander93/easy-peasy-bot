@@ -21,7 +21,7 @@ And lo, you can build a Slack Bot, too! With our API and this nifty repository, 
 7. Once you have the token, you can run your bot easily:
 
     ```bash
-    TOKEN=xoxb-your-token-here npm start
+    TOKEN=
     ```
 
     Your bot will now attempt to log into your team, and you should be able talk to it. Try telling your new bot “hello”. It should say “Hello!” back!
